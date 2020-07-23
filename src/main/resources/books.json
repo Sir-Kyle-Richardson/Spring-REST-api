@@ -1,5 +1,7 @@
-{
-  "id": 1,
-  "author": "John",
-  "title": "A real book"
-}
+[
+  {
+    "id": "6de912cf-1eef-4fe3-a9cc-195eb4e1ea49",
+    "author": "John",
+    "title": "Some Real Book"
+  }
+]
